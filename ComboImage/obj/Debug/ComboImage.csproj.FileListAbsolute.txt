@@ -1,0 +1,10 @@
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\bin\Debug\ComboImage.exe.config
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\bin\Debug\ComboImage.exe
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\bin\Debug\ComboImage.pdb
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\obj\Debug\ComboImage.csprojAssemblyReference.cache
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\obj\Debug\ComboImage.Properties.Resources.resources
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\obj\Debug\ComboImage.csproj.GenerateResource.cache
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\obj\Debug\ComboImage.csproj.CoreCompileInputs.cache
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\obj\Debug\ComboImage.exe
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\obj\Debug\ComboImage.pdb
+C:\Users\MAXXXYMIRON\Desktop\ComboImage\ComboImage\obj\Debug\ComboImage.Window.resources
